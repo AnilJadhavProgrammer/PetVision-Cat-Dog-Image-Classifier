@@ -1,4 +1,4 @@
-# Cat-Dog-Classification-Model
+# PetVision — Cat & Dog Image Classifier
 # Overview
 This project is a deep learning model that classifies images as either cats or dogs. this model showcases key concepts in Computer Vision and Deep Learning using Convolutional Neural Networks (CNNs).
 # Features
